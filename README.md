@@ -11,7 +11,7 @@ Simple full-stack application to register household pets.
 ## Build the Project
 
 ### Prerequisites
-- Java 21+
+- Java 21
 - Node.js (only needed during build)
 
 ---
